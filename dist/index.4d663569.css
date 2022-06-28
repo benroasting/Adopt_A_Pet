@@ -123,18 +123,18 @@ header {
 }
 
 .details p {
-  padding: 0 15px;
+  padding: 0 3rem;
   line-height: 1.5;
 }
 
-.details h1 {
+.details h2 {
   text-align: center;
   color: #333;
   margin: 5px 0;
-  font-size: 60px;
+  font-size: 40px;
 }
 
-.details h2 {
+.details h3 {
   text-align: center;
   margin: 5px 0 20px;
 }
@@ -276,7 +276,7 @@ header {
     width: 65%;
   }
 
-  .info h1, .info h2 {
+  .info h2, .info h3 {
     width: 100%;
     white-space: nowrap;
     text-overflow: ellipsis;
